@@ -8,7 +8,7 @@ Objetivo general y Objetivos específicos
 ## Metodologia
 La metodología describe cómo se hará la investigación. Aquí se explica el enfoque, el tipo de estudio, técnicas e instrumentos.
 ## Resultados
-
+Aquí se presentan los hallazgos obtenidos tras aplicar la metodología.
 ## Conclusiones
-
+Las conclusiones son reflexiones finales basadas en los resultados, vinculadas al problema y a los objetivos planteados.
 ## Referencias
