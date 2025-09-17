@@ -12,3 +12,8 @@ Aquí se presentan los hallazgos obtenidos tras aplicar la metodología.
 ## Conclusiones
 Las conclusiones son reflexiones finales basadas en los resultados, vinculadas al problema y a los objetivos planteados.
 ## Referencias
+Características de las referencias
+Van al final de la tesis.
+Se ordenan alfabéticamente por apellido del autor.
+Cada fuente debe estar citada en el texto.
+Deben ser completas y permitir identificar el material consultado.
