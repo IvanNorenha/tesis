@@ -11,6 +11,7 @@ La metodología describe cómo se hará la investigación. Aquí se explica el e
 Aquí se presentan los hallazgos obtenidos tras aplicar la metodología.
 ## Conclusiones
 Las conclusiones son reflexiones finales basadas en los resultados, vinculadas al problema y a los objetivos planteados.
+Mejoran el entendimiento de las cosas claves de la ponencia.
 ## Referencias
 Características de las referencias
 Van al final de la tesis.
